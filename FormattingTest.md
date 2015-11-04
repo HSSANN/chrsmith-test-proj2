@@ -1,0 +1,7 @@
+# Header #
+**bold**
+_italics_
+
+```
+code2
+```
